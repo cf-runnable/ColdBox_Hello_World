@@ -21,7 +21,7 @@
 		// These are just settings I use for the layout of the Demo to make this sample app easier to reuse.
 		settings = {
 			demoTitle = 'ColdBox Hello World',
-			demoDescription = listChangeDelims( fileRead('/readme.md'), '<br>', chr(13)&chr(13) ),
+			demoDescription = listChangeDelims( fileRead('/readme.md'), '<br>', chr(13)&chr(10) ),
 			demoDescriptionButtons = [
 				{
 					name = 'ColdBox Ref Card',
