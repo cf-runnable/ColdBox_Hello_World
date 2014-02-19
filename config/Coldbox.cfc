@@ -29,7 +29,7 @@
 				}
 			],
 			demoSourceLink = 'https://github.com/cf-runnable/ColdBox_Hello_World',
-			demoRelatedDocsLink = 'http://wiki.coldbox.org/wiki/ExceptionHandling.cfm'
+			demoRelatedDocsLink = 'http://wiki.coldbox.org/wiki/ColdBox.cfm'
 		};
 	
 	}
